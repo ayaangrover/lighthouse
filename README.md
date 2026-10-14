@@ -54,10 +54,6 @@ bash ../install/install-macos.sh
 
 Then it'll start on its own when you log into your computer and you won't have to worry about keeping it on.
 
-
-This project is not affiliated with Harker or Schoology. Any use of this project in manners that may violate state or federal laws or the school handbook is not in any way condoned, and the maintainers of this project hold no responsibility for any consequences that may arise from using (or not using) this project, which is merely a PoC. We also hold no accountability for any damage that may arise or even be related to the usage of any code in this repository.
-
-
 ### Here's how to install Node
 
 Download the **LTS** version from [nodejs.org](https://nodejs.org) and run the installer. 
@@ -71,3 +67,11 @@ node --version
 ```
 
 Anything `v18` or higher is fine.
+
+
+## ⚠️ Disclaimer & Privacy
+
+> [!WARNING]
+> **This project is for educational purposes only.** This program runs entirely locally on your laptop, and your Schoology credentials **never** leave your machine. 
+> 
+> You assume all responsibility and risk for the use of this software, including any potential school policy or legal violations, or rate limits. The contributors are not liable for any account restrictions, data loss, system instability, or legal action caused by obtaining, using, or running this code.
