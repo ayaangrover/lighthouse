@@ -55,7 +55,7 @@ bash ../install/install-macos.sh
 Then it'll start on its own when you log into your computer and you won't have to worry about keeping it on.
 
 
-This project is not affiliated with Harker or Schoology. Any use of this project in manners that may violate state or federal laws or the school handbook is not in any way condoned, and the maintainers of this project hold no responsability for any consequences that may arise from using (or not using) this project, which is merely a PoC.
+This project is not affiliated with Harker or Schoology. Any use of this project in manners that may violate state or federal laws or the school handbook is not in any way condoned, and the maintainers of this project hold no responsibility for any consequences that may arise from using (or not using) this project, which is merely a PoC. We also hold no accountability for any damage that may arise or even be related to the usage of any code in this repository.
 
 
 ### Here's how to install Node
