@@ -1,0 +1,21 @@
+{
+  "name": "lighthouse-notifier",
+  "version": "1.0.0",
+  "description": "Schoology grade notifier — watches your gradebook and pushes a notification when a grade changes.",
+  "license": "MIT",
+  "private": true,
+  "main": "main.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node main.js",
+    "check-parse": "node tools/check-parse.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
+    "express": "^5.2.1"
+  }
+}

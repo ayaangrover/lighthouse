@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Lighthouse Grade Notifier",
+    "version": "1.0",
+    "description": "Keeps Lighthouse signed in to Schoology so it can watch your grades. Sends nothing anywhere except the app running on your own computer.",
+    "permissions": [
+        "cookies",
+        "webNavigation"
+    ],
+    "host_permissions": [
+        "*://schoology.harker.org/*",
+        "http://127.0.0.1:3412/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Lighthouse"
+    }
+}

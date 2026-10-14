@@ -1,0 +1,4 @@
+node_modules/
+backend/data/
+backend/debug_response.html
+.DS_Store
