@@ -69,8 +69,6 @@ node --version
 Anything `v18` or higher is fine.
 
 
-## ⚠️ Disclaimer & Privacy
-
 > [!WARNING]
 > **This project is for educational purposes only.** This program runs entirely locally on your laptop, and your Schoology credentials **never** leave your machine. 
 > 
